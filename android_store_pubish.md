@@ -45,7 +45,7 @@
 ## 2. 메뉴 구성
 > **Google Play Console 접속시 좌측에 보이는 Main 메뉴 구성에 대한 설명**
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_2.1.png" alt="store_2.1" width="35%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_2.1.png" alt="store_2.1" width="35%"/></kbd>  
 
 |메뉴명 | 설명  |  
 |--|--|  
@@ -63,10 +63,10 @@
 ## 3. 앱 등록
 >**Google Play Store 에 앱을 등록하는 방법을 정리합니다.**
 ### 3.1 앱만들기
-  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.1.png" alt="store_3.1.1" width="100%"/>  
+  <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.1.png" alt="store_3.1.1" width="100%"/></kbd>  
 
 #### 3.1.1 앱 세부정보 입력
-  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.1-1.png" alt="store_3.1.1-1" width="70%"/>  
+  <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.1-1.png" alt="store_3.1.1-1" width="70%"/></kbd>  
 
 |메뉴명 | 설명  |  
 |--|--|  
@@ -76,7 +76,7 @@
 |유료또는무료|앱,게임여부설정 <br/>(콘솔에서 수정가능)<br/>(수익 창출 -> 제품 -> 앱 가격 -> 가격 설정)<br/>**주의사항 : 앱 생성시에는 변경가능하나, 앱을 게시한 이후 수정 불가 (무료앱을 유료앱으로 변경 불가)**|
 
 #### 3.1.2 선언
-  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.2.png" alt="store_3.1.2" width="70%"/>  
+  <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.2.png" alt="store_3.1.2" width="70%"/></kbd>  
 
 |메뉴명 | 설명  |  
 |--|--|  
@@ -89,7 +89,7 @@
 > - **앱 콘텐츠에 관한 정보입력**
 > - **앱이 분류 및 표시되는 방식관리**
 
-  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.png" alt="store_3.2" width="60%"/>  
+  <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.png" alt="store_3.2" width="60%"/></kbd>  
 
 
 #### 3.2.1 앱 액세스 권한
@@ -97,7 +97,7 @@
 > - **엑세스정보가 누락된 경우 리젝사유**
 
 
- <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.1-1.png" alt="store_3.2.1-1" width="70%"/>  
+ <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.1-1.png" alt="store_3.2.1-1" width="70%"/></kbd>  
 
 |메뉴명 | 설명  |  
 |--|--|  
@@ -107,14 +107,14 @@
 #### 3.2.1.1 새 안내 추가
 > **이름, 사용자 이름/전화번호, 비밀번호, 다른 안내사항을 기입**
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.1.1.png" alt="store_3.2.1.1" width="70%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.1.1.png" alt="store_3.2.1.1" width="70%"/></kbd>  
 
 #### 3.2.2 광고
 > **앱에 광고가 포함되어 있는지  설정**
 
 |광고 대시보드 선택화면 | 앱스토어 광고 포함 문구 예시([자세히 보기](https://support.google.com/googleplay/android-developer/answer/9859455?visit_id=637871565108829086-2356309235&rd=1#ads))  |  
 |--|--|  
-| <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.2.png" alt="store_3.2.2" width="100%"/>| <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.2-1.png" alt="store_3.2.2-1" width="100%"/>|
+| <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.2.png" alt="store_3.2.2" width="100%"/></kbd>| <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.2-1.png" alt="store_3.2.2-1" width="100%"/></kbd>|
 
 앱이 광고를 포함하는 경우 입력하며 기본적으로 Google 의 광고 정책을 따름.  
 [광고 정책](https://play.google.com/about/monetization-ads/ads/)을 읽고 앱이 정책을 준수하는지 확인하시기 바랍니다.
@@ -124,50 +124,50 @@
 
 설문지 시작 클릭시 아래와 같이 상세 입력란이 생성되며 카테고리, 설문지, 요약으로 구성되어 있음 (각 항목별 설문 다수 존재)
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.3.png" alt="store_3.2.3" width="70%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.3.png" alt="store_3.2.3" width="70%"/></kbd>  
 
 입력 완료 시 각 국가별 등급이 결정  
 등급 부여기관은 Google Play 가 기본이나, 브라질, 북미등 일부 기관의 경우 전문 등급 부여 기관이 별도로 존재
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.3-1.png" alt="store_3.2.3-1" width="70%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.3-1.png" alt="store_3.2.3-1" width="70%"/> </kbd> 
 
 #### 3.2.4 타겟층 및 콘텐츠
 > **앱을 사용하는 주 타겟층에 대한 정보를 입력**
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4.png" alt="store_3.2.4" width="70%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4.png" alt="store_3.2.4" width="70%"/></kbd>  
 
 - **대상연령**<br/>앱 세부정보, 광고, 앱 정보, 요약 순으로 입력. 단 타겟층에 13세 미만 어린이가 포함되는 경우 개인정보처리방침을 추가해야 함.([자세히 보기](https://support.google.com/googleplay/android-developer/answer/9867159?visit_id=637871565108829086-2356309235&rd=1#age-groups))
 - **앱 세부정보,광고**<br/>  이 두 항목은 사전 등록되었으므로 skip 됨
-- **앱 정보**<br/> 스토어 등록정보가 어린이의 관심을 유도하는지 입력<br/>'**아니오**' 를 입력하는 경우 Google 심사시 리젝 사유가 될 수 있음. '**아니오**' 를 입력하면 아래 사유를 충족해야 함<br/>-   스토어 등록정보에 어린이가 좋아할만한 애니메이션, 아동 캐릭터가 포함되지 않아야 함.<br/>-   스토어 등록정보에 어린이의 관심을 끌만한 요소가 없어야 함.<br/><br/><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4-1.png" alt="store_3.2.4-1" width="70%"/>
-- **요약**<br/>모든 정보 입력시 요약 화면,확인 후 완료하면 됨<br/><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4-2.png" alt="store_3.2.4-2" width="70%"/>
+- **앱 정보**<br/> 스토어 등록정보가 어린이의 관심을 유도하는지 입력<br/>'**아니오**' 를 입력하는 경우 Google 심사시 리젝 사유가 될 수 있음. '**아니오**' 를 입력하면 아래 사유를 충족해야 함<br/>-   스토어 등록정보에 어린이가 좋아할만한 애니메이션, 아동 캐릭터가 포함되지 않아야 함.<br/>-   스토어 등록정보에 어린이의 관심을 끌만한 요소가 없어야 함.<br/><br/><kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4-1.png" alt="store_3.2.4-1" width="70%"/>
+- **요약**<br/>모든 정보 입력시 요약 화면,확인 후 완료하면 됨<br/><kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4-2.png" alt="store_3.2.4-2" width="70%"/></kbd>
 
 #### 3.2.5 타겟층 및 콘텐츠
 > **앱이 뉴스 앱인지 설정.**
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.5.png" alt="store_3.2.5" width="70%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.5.png" alt="store_3.2.5" width="70%"/></kbd>  
 
 뉴스 앱인 경우 Google Play 뉴스 정책을 반드시 준수해야 함 ([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/9949730))
 
 #### 3.2.6 코로나19 접촉자 추적 앱 및 이력 앱
 > **앱이 코로나19 접촉자 추적 앱 또는 이력 앱인지 파악할 수 있도록 설정.**
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.6.png" alt="store_3.2.6" width="90%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.6.png" alt="store_3.2.6" width="90%"/></kbd>  
 
 공개된 코로나19 이력 앱인 경우  앱이 요건을 충족한다는 증빙 자료를 반드시 제출해야 함([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/9889712?hl=ko#app_requirements))
 
 #### 3.2.7 개인정보처리방침
 > **수익 창출 -> 정책 -> 앱 콘텐츠 -> 개인정보처리방침  에서 개인정보 처리방침주소를 추가해야 합니다.**
 
-<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.8.png" alt="store_3.2.8" width="70%"/>  
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.8.png" alt="store_3.2.8" width="70%"/></kbd>  
 
 - 타겟층에 만 13세 미만 어린이가 포함되어 있는 경우 개인정보처리방침을 추가해야 합니다([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/9859455?hl=ko#privacy_policy))
 - 민감한 사용자 및 기기 데이터를 어떻게 취급하는지 투명하게 알리기 위해 스토어 등록정보에 개인정보처리방침을 추가([자세히 알아보기](https://support.google.com/googleplay/android-developer/topic/9877467))
 
 #### 3.2.8 데이터 보안 (선택)
 > **필수로 해야되는 항목이 아닙니다.사용자가 엡의 데이터 수집 및 공유 방식을 이해하도록  각 수집 항목에 대해 설명정의를 하도록 합니다.**
-- **개요**<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7.png" alt="store_3.2.7" width="70%"/>
+- **개요**<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7.png" alt="store_3.2.7" width="70%"/></kbd>
 
-- **데이터 수집 및 보안**<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-1.png" alt="store_3.2.7-1" width="70%"/><br/>
+- **데이터 수집 및 보안**<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-1.png" alt="store_3.2.7-1" width="70%"/></kbd><br/>
 
 | 메뉴 | 설명 |
 |--|--|
@@ -175,9 +175,9 @@
 |앱에서 수집하는 모든 사용자 데이터를 암호화하여 전송하나요?|**사용자 데이터를 암호화 안하고 평문**으로 전송시에 리젝이 될수 있으니 약관을 참고 해야 함 ([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#other) )|
 |사용자가 데이터 삭제를 요청할 수 있는 방편을 제공하나요?|개인정보는 탈퇴 등 방법으로 삭제가 가능해야 됨 ([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#other) )  |
 
-- **데이터 유형**<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-2.png" alt="store_3.2.7-2" width="90%"/> <br/>[공개해야 하는 필수 사용자 데이터 유형의 목록](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#types&zippy=%2C%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%ED%98%95)에 포함된 데이터에 대해 수집하는것을 선택해줍니다.
+- **데이터 유형**<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-2.png" alt="store_3.2.7-2" width="90%"/></kbd> <br/>[공개해야 하는 필수 사용자 데이터 유형의 목록](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#types&zippy=%2C%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%ED%98%95)에 포함된 데이터에 대해 수집하는것을 선택해줍니다.
 
-- **데이터 사용량 및 처리**<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-3.png" alt="store_3.2.7-3" width="80%"/><br/> 선택된 데이터 수집 항목들이 어떤 용도로 쓰이는지, 외부로 공유되는지 명시하도록 합니다.<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/> <br/>
+- **데이터 사용량 및 처리**<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-3.png" alt="store_3.2.7-3" width="80%"/></kbd><br/> 선택된 데이터 수집 항목들이 어떤 용도로 쓰이는지, 외부로 공유되는지 명시하도록 합니다.<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/></kbd> <br/>
 
 | 메뉴 | 설명 |
 |--|--|
@@ -188,6 +188,4 @@
 
 ### 3.3 스토어 설정
 > 앱의 카테고리, 태그 및 사용자에게 표시되는 개발자 정보를 편집합니다.
-
-| <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/> |
-|--|   
+ 
