@@ -215,14 +215,18 @@
 #### 3.4.2 그래픽
 >스토어 상세화면에서 보여지는 앱 아이콘 ,스크린샷 ,커버이미지
 
-<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.png" alt="store_3.4.1" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.2-1.png" alt="store_3.4.2-1" width="100%"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.png" alt="store_3.4.1" width="100%"/></kbd>
 
+|메뉴|설명  |
+|--|--|
+|앱 아이콘|  앱 검색시 google play store 에 노출되는 아이콘|
+|그래픽 이미지|Google Play Store 의 앱 소개나, 카카오톡 앱 공유시 썸네일등에 노출될 이미지|
 
 
 
 | 스토어 검색시|스토어 상세 화면  |앱 상세 화면 더보기|
 |--|--|--|
-| <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.png" alt="store_3.4.1" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-2.png" alt="store_3.4.1" width="100%"/></kbd>|<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-3.png" alt="store_3.4.1" width="100%"/></kbd>|
+| <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.png" alt="store_3.4.1-1" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-2.png" alt="store_3.4.1-2" width="100%"/></kbd>|<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-3.png" alt="store_3.4.1-3" width="100%"/></kbd>|
 
 
 
