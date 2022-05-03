@@ -1,6 +1,7 @@
 # Google Play Console (Android 앱 배포)
 > **Google Play Console 앱 배포(Deployment) 내용을 정리하여 공유**
-## 1.개발자 등록
+> 주소: https://play.google.com/console/
+## 1. 개발자 등록
 > **Google Play Console 을 통해 앱을 서비스 하는 경우 반드시 개발자 등록 필수**
 ###  1.1 개발자 등록 절차
 - Google Play 개발자 계정 생성
@@ -15,13 +16,27 @@
   - 개발자 이름이 Google Play 콘솔에 노출되므로 신중하게 입력
     (**참고:** Play 개발자 계정 요청을 처리하기 위해 본인 법적 이름으로 발급된 유효한 국가 발급 신분증과 신용카드가 모두 필요할 수 있습니다. 잘못된 정보를 제공하는 경우 등록 수수료가 환불되지 않습니다.)
     -계정을 만든 후에도 [계정 정보](https://support.google.com/googleplay/android-developer/answer/139626)를 추가로 입력할 수 있습니다.
-## 2.메뉴 구성
+## 2. 메뉴 구성
 > **Google Play Console 접속시 좌측에 보이는 Main 메뉴 구성에 대한 설명**
 
 <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_2.1.png" alt="store_2.1" width="35%"/>
 
-
-|代码库                              |链接                                |
-|:------------------------------------:|------------------------------------|
-|MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
-|MarkDownCopy                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
+|메뉴명 | 설명  |
+|--|--|
+| 모든앱 | 서비스 중인 모든 앱의 개요를 보임 (Dashboard) |
+|메시지함 | Google Play 에서 전달하는 모든 메시지를 보임. 정책 변경사항, 앱 위반사항,<br/> 앱 취약점 등에 대한 메시지가 전달 운영 대응을 위해 지속적으로 메시지 확인 및 대응 필수|
+|정책상태 | 개발자계정의 문제  및 상태를  확인,별도 문제가 없는 경우 "개발자 계정에서 문제를 찾을 수 없음" 표기|
+|사용자및권한| -  개발자 계정에 Access 할 수 있는 사용자를 관리<br/>- 신규초대, 인원별 권한 부여|
+|주문관리| - 주문을 확인, 환불 처리, 정기결제 취소<br/> - 앱을 통해 수익 발생사항에 대한 관리|
+|보고서 다운로드| - 앱에서 생성되는 보고서 다운로드 (리뷰, 통계, 재무)<br> - 리뷰 : 앱의사용자리뷰 <br/> - 통계 : 앱설치,삭제등앱의전반적인통계 <br/> - 재무 : 앱으로부터 발생한 수익,지출 내역
+|계정 세부정보| - 개발자 계정이 개인용인지 아니면 조직이나 비즈니스를 대표하는지 설정 <br/> - 개발자 계정 아이디,이메일,전화번호를 관리|
+|개발자 페이지| 구글스토어에 게시할 개발자 소개페이지 편집|
+|연결된 개발자 계정| 나와 연결된 다른 개발자 계정이 있는지 Google에서 확인할 수 있도록 [계정 그룹 생성](https://support.google.com/googleplay/android-developer/answer/10627869) 및 관리|
+|활동 로그| 계정 소유자는 활동 로그를 사용하여 계정 사용자가 Play Console에서 변경한 사항을 확인할 수 있습니다. <br/>활동 로그에는 전체 기간의 개발자 계정 정보가 기록됩니다.([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/6053184?hl=ko))|
+|설정| Google Play Console 설정|
+## 3. 앱 등록
+>**Google Play Store 에 앱을 등록하는 방법을 정리합니다.**
+### 3.1 앱만들기
+#### 3.1.1 앱 세부정보 입력
+  
+ 
