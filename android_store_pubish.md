@@ -187,4 +187,44 @@
 |이 사용자 데이터가 수집되는 이유는 무엇인가요? | 수집되는 목적을 다중으로 선택|
 
 ### 3.3 스토어 설정
-> 앱의 카테고리, 태그 및 사용자에게 표시되는 개발자 정보를 편집합니다. 
+> 성장 -> 앱 정보 -> 스토어 설정 에 있으며 앱의 카테고리, 태그 및 사용자에게 표시되는 개발자 정보를 편집합니다.
+>
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.3.png" alt="store_3.3" width="100%"/></kbd>
+
+|메뉴| 설명  |
+|--|--|
+| 앱 또는 게임 | 게임인지 앱인지 선택 |
+| 카테고리 | 앱의 서비스 타입에 따라 금융,교육,만화,도구,소셜 등 카테고리에서 하나를 선택|
+| 태그 | 총 5 개의 태그를 선택할 수 있으며 선택된 태그에 따라 Google Play 에서 앱이 표시되는 위치 또는 추천 앱 위치, 사용자 검색등이 달라짐.([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/9859673?visit_id=637871810000164338-3206709530&rd=1))|
+| 이메일 주소, 전화번호 ,웹사이트| 스토어에서 사용자에게 표시되는 정보|
+
+### 3.4 기본 스토어 등록정보
+> 스토어 상세화면에서 보여지는 앱의 이름,소개,이미지 등 정보
+
+#### 3.4.1 앱 세부정보
+> 스토어 상세화면에서 보여지는앱이름, 간략 소개, 상세 소개 입력
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1.png" alt="store_3.4.1" width="100%"/></kbd>
+
+|메뉴|설명  |
+|--|--|
+| 앱 이름 | 플레이스토어 앱 상세화면에 표시될 앱이름 |
+| 간단한 설명 | 앱 검색시 앱 하단에 간략하게 앱의 기능을 설명함.상세 클릭시 앱정보에서 해당 문구가 표시되며, 상세 보기 클릭시 상세화면의 제일 첫 줄에 표시 |
+|자세한 설명| 앱 상세 클릭시 앱 정보의 상세 메시지가 출력됨|
+
+#### 3.4.2 그래픽
+>스토어 상세화면에서 보여지는 앱 아이콘 ,스크린샷 ,커버이미지
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.png" alt="store_3.4.1" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.2-1.png" alt="store_3.4.2-1" width="100%"/></kbd>
+
+
+
+
+| 스토어 검색시|스토어 상세 화면  |앱 상세 화면 더보기|
+|--|--|--|
+| <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.png" alt="store_3.4.1" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-2.png" alt="store_3.4.1" width="100%"/></kbd>|<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-3.png" alt="store_3.4.1" width="100%"/></kbd>|
+
+
+
+
+ 
