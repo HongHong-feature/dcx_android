@@ -206,7 +206,7 @@
 
 <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1.png" alt="store_3.4.1" width="100%"/></kbd>
 
-|메뉴|설명  |
+|메뉴|설명  |
 |--|--|
 | 앱 이름 | 플레이스토어 앱 상세화면에 표시될 앱이름 |
 | 간단한 설명 | 앱 검색시 앱 하단에 간략하게 앱의 기능을 설명함.상세 클릭시 앱정보에서 해당 문구가 표시되며, 상세 보기 클릭시 상세화면의 제일 첫 줄에 표시 |
@@ -218,16 +218,16 @@
 
 <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.2-2.png" alt="store_3.4.1" width="100%"/></kbd>
 <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.2-1.png" alt="store_3.4.1" width="100%"/></kbd>
-|메뉴|설명  |
+|메뉴|설명  |
 |--|--|
 |앱 아이콘|  앱 검색시 google play store 에 노출되는 아이콘<br/>앱 아이콘은 투명한 PNG 또는 JPEG, 최대 1MB, 512px X 512px이어야 하며 [디자인 사양](https://developer.android.com/google-play/resources/icon-design-specifications) 및 [메타데이터 정책](https://support.google.com/googleplay/android-developer/answer/9898842)을 준수해야 합니다.|
 |그래픽 이미지|Google Play Store 의 앱 소개나, 카카오톡 앱 공유시 썸네일등에 노출될 이미지<br/>그래픽 이미지는 PNG 또는 JPEG, 최대 1MB, 1024px X 500px|
 |휴대전화 스크린샷| 전화 업로드된 이미지는 Google Play Store 화면에 설치 버튼 하단에 스냅샷이미지로 노출<br/>휴대전화 스크린샷 2~8장 . 스크린샷은 PNG 또는 JPEG, 장당 최대 8MB, 가로세로 비율 16:9 또는 9:16, 가로세로 길이는 320px X 3840px 사이|
 
 
-| 스토어 검색시|스토어 상세 화면  |앱 상세 화면 더보기|
+|스토어 검색시|스토어 상세 화면  |앱 상세 화면 더보기|
 |--|--|--|
-| <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.jpeg" alt="store_3.4.1-1" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-2.jpeg" alt="store_3.4.1-2" width="100%"/></kbd>|<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-3.jpeg" alt="store_3.4.1-3" width="100%"/></kbd>|
+| <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-1.jpeg" alt="store_3.4.1-1" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-2.jpeg" alt="store_3.4.1-2" width="100%"/></kbd>|<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.4.1-3.jpeg" alt="store_3.4.1-3" width="100%"/></kbd>|
 
 
 
