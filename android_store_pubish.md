@@ -187,7 +187,4 @@
 |이 사용자 데이터가 수집되는 이유는 무엇인가요? | 수집되는 목적을 다중으로 선택|
 
 ### 3.3 스토어 설정
-> 앱의 카테고리, 태그 및 사용자에게 표시되는 개발자 정보를 편집합니다.
-
-|<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-3.png" alt="store_3.2.7-3" width="80%" />|
--
+> 앱의 카테고리, 태그 및 사용자에게 표시되는 개발자 정보를 편집합니다. 
