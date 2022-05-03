@@ -321,5 +321,16 @@
 | 목록 이름 | 이메일 목록 그룹을 구분하기 위한 이름 |
 | 이메일 주소 추가 | 폰에 구글 Google Playstore에 로그인 되어 있는 이메일 주소 |
 
+### 4.5 버전 만들기
+> 테스트로 등록할 버전 bundle등록
 
- 
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_4.5.png" alt="store_4.5" width="100%"/></kbd>
+
+|메뉴| 설명 |
+|--|--|
+| App Bundle(혹은 apk) | - 이미 추가 했던 버전이라면 라이브러리에서 추가<br/>- 처음으로 등록하는 버전이면 드래그해서 앱파일을 등록 |
+|출시 노트| 스토어에 게시될 버전 업그레이드 안내 내용|
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_4.5.1.png" alt="store_4.5.1" width="100%"/></kbd>
+등록 완료 하면 이미지와 같이 검토 중으로 나옴.
+(내부 테스트 외에 모두 심사가 필요하기에 다소 시간이 걸림. 심사 시간은 심사정책에 따라 30분~7일까지 차이가 있을수 있음)
