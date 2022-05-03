@@ -177,7 +177,7 @@
 
 - **데이터 유형**<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-2.png" alt="store_3.2.7-2" width="90%"/></kbd> <br/>[공개해야 하는 필수 사용자 데이터 유형의 목록](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#types&zippy=%2C%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%ED%98%95)에 포함된 데이터에 대해 수집하는것을 선택해줍니다.
 
-- **데이터 사용량 및 처리**<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-3.png" alt="store_3.2.7-3" width="80%"/></kbd><br/> 선택된 데이터 수집 항목들이 어떤 용도로 쓰이는지, 외부로 공유되는지 명시하도록 합니다.<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/></kbd> <br/>
+- **데이터 사용량 및 처리**<br/> <kbd width="80%"><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-3.png" alt="store_3.2.7-3" /></kbd><br/> 선택된 데이터 수집 항목들이 어떤 용도로 쓰이는지, 외부로 공유되는지 명시하도록 합니다.<br/> <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/></kbd> <br/>
 
 | 메뉴 | 설명 |
 |--|--|
