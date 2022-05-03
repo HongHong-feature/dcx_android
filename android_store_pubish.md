@@ -15,6 +15,13 @@
   - 개발자 이름이 Google Play 콘솔에 노출되므로 신중하게 입력
     (**참고:** Play 개발자 계정 요청을 처리하기 위해 본인 법적 이름으로 발급된 유효한 국가 발급 신분증과 신용카드가 모두 필요할 수 있습니다. 잘못된 정보를 제공하는 경우 등록 수수료가 환불되지 않습니다.)
     -계정을 만든 후에도 [계정 정보](https://support.google.com/googleplay/android-developer/answer/139626)를 추가로 입력할 수 있습니다.
+## 2.메뉴 구성
+> **Google Play Console 접속시 좌측에 보이는 Main 메뉴 구성에 대한 설명**
 
-   
- 
+<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_2.1.png" alt="store_2.1" width="35%"/>
+
+
+|代码库                              |链接                                |
+|:------------------------------------:|------------------------------------|
+|MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
+|MarkDownCopy                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
