@@ -101,3 +101,34 @@
 
 <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.3-1.png" alt="store_3.2.3-1" width="70%"/>
 
+#### 3.2.4 타겟층 및 콘텐츠
+> **앱을 사용하는 주 타겟층에 대한 정보를 입력**
+
+<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4.png" alt="store_3.2.4" width="70%"/>
+
+- 대상연령, 앱 세부정보, 광고, 앱 정보, 요약 순으로 입력. 단 타겟층에 13세 미만 어린이가 포함되는 경우 개인정보처리방침을 추가해야 함.([자세히 보기](https://support.google.com/googleplay/android-developer/answer/9867159?visit_id=637871565108829086-2356309235&rd=1#age-groups))
+- 앱 세부정보, 광고 항목은 사전 등록되었으므로 skip 됨'
+- 스토어 등록정보가 어린이의 관심을 유도하는지 입력<br/>'아니오' 를 입력하는 경우 Google 심사시 리젝 사유가 될 수 있음. '아니오' 를 입력하면 아래 사유를 충족해야 함<br/>-   스토어 등록정보에 어린이가 좋아할만한 애니메이션, 아동 캐릭터가 포함되지 않아야 함.<br/>-   스토어 등록정보에 어린이의 관심을 끌만한 요소가 없어야 함.<br/><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4-1.png" alt="store_3.2.4-1" width="70%"/>
+- 요약,모든 정보 입력시 요약 화면<br/><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.4-2.png" alt="store_3.2.4-2" width="70%"/>
+
+#### 3.2.5 타겟층 및 콘텐츠
+> **앱이 뉴스 앱인지 설정.**
+
+<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.5.png" alt="store_3.2.5" width="70%"/>
+
+뉴스 앱인 경우 Google Play 뉴스 정책을 반드시 준수해야 함 ([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/9949730))
+
+#### 3.2.6 코로나19 접촉자 추적 앱 및 이력 앱
+> **앱이 코로나19 접촉자 추적 앱 또는 이력 앱인지 파악할 수 있도록 설정.**
+
+<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.6.png" alt="store_3.2.6" width="70%"/>
+
+공개된 코로나19 이력 앱인 경우  앱이 요건을 충족한다는 증빙 자료를 반드시 제출해야 함([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/9889712?hl=ko#app_requirements))
+
+#### 3.2.7 데이터 보안 (선택)
+> **필수로 해야되는 항목이 아닙니다.사용자가 엡의 데이터 수집 및 공유 방식을 이해하도록  각 수집 항목에 대해 설명정의를 하도록 합니다.**
+- 개요<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7.png" alt="store_3.2.7" width="70%"/>
+
+- 데이터 수집 및 보안<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-1.png" alt="store_3.2.7-1" width="70%"/><br/> - 앱에서 필수 사용자 데이터 유형을 수집하거나 공유하나요?<br/>**공개해야 하는 필수 사용자 데이터 유형의 목록에 포함된 데이터**를 수집할 경우 '예' 를 선택해야 합니다. ([자세히 알아보기]((https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#types&zippy=%2C%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%ED%98%95) )) <br/> - 앱에서 수집하는 모든 사용자 데이터를 암호화하여 전송하나요? <br/>**사용자 데이터를 암호화 안하고 평문**으로 전송시에 리젝이 될수 있으니 약관을 참고 해야 합니다.([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#other) )<br/> - 사용자가 데이터 삭제를 요청할 수 있는 방편을 제공하나요?<br/>개인정보는 탈퇴등 방법으로 삭제가 가능해야됩니다..([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#other) )
+- 데이터 유형<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-2.png" alt="store_3.2.7-2" width="70%"/><br/> - 앱에서 필수 사용자 데이터 유형을 수집하거나 공유하나요?<br/>[공개해야 하는 필수 사용자 데이터 유형의 목록에 포함된 데이터](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ko#types&zippy=%2C%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%ED%98%95) 에 대해 수집하는것을 선택해줍니다.
+- 데이터 사용량 및 처리<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-3.png" alt="store_3.2.7-3" width="70%"/><br/> 선택된 데이터 수집 항목들이 어떤 용도로 쓰이는지, 외부로 공유되는지 명시하도록 합니다.<br/> <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/> <br/> - 데이터를 수집 또는 공유하나요? 아니면 수집과 공유를 모두 하나요?<br/> 앱내에서 서버전달없이 로컬에서만 사용 할 경우, 수집하여 타사로 전달만 할경우 '**공유됨**'을 선택합니다. <br/>기타 자체서버로 수집하는 경우는 '**수집됨**'을 선택합니다. <br/> - 이 데이터는 임시로 처리되나요?<br/>메모리에 임시로 저장하고 잃어버리는 휘발성 데이터일 경우 '**예, 수집된 데이터가 임시적으로 처리됩니다**'을 선택합니다.<br/>
