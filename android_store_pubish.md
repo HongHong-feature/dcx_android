@@ -31,7 +31,7 @@
 |보고서 다운로드| - 앱에서 생성되는 보고서 다운로드 (리뷰, 통계, 재무)<br> - 리뷰 : 앱의사용자리뷰 <br/> - 통계 : 앱설치,삭제등앱의전반적인통계 <br/> - 재무 : 앱으로부터 발생한 수익,지출 내역
 |계정 세부정보| - 개발자 계정이 개인용인지 아니면 조직이나 비즈니스를 대표하는지 설정 <br/> - 개발자 계정 아이디,이메일,전화번호를 관리|
 |개발자 페이지| 구글스토어에 게시할 개발자 소개페이지 편집|
-|연결된 개발자 계정| 나와 연결된 다른 개발자 계정이 있는지 Google에서 확인할 수 있도록 [계정 그룹 생성](https://support.google.com/googleplay/android-developer/answer/10627869) 및 관리|
+|연결된 개발자 계정| 나와 연결된 다른 개발자 계정이 있는지 Google에서 확인할 수 있도록 [계정 그룹 생성](https://support.google.com/googleplay/android-developer/answer/10627869) 및 관리|
 |활동 로그| 계정 소유자는 활동 로그를 사용하여 계정 사용자가 Play Console에서 변경한 사항을 확인할 수 있습니다. <br/>활동 로그에는 전체 기간의 개발자 계정 정보가 기록됩니다.([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/6053184?hl=ko))|
 |설정| Google Play Console 설정|
 ## 3. 앱 등록
