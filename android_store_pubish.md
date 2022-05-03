@@ -189,6 +189,5 @@
 ### 3.3 스토어 설정
 > 앱의 카테고리, 태그 및 사용자에게 표시되는 개발자 정보를 편집합니다.
 
-| ㄹㅇㄴ |
-|--|
-| <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/>   |  
+| <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.7-4.png" alt="store_3.2.7-4" width="70%"/> |
+|--|   
