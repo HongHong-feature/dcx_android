@@ -59,5 +59,45 @@
 |미국 수출법| 미국 수출법 약관 동의 ([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/113770?hl=ko))|
 
 ### 3.2 앱 설정
-  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.png" alt="store_3.2" width="70%"/>
-  
+> **앱에 관한 정보를 제공하고 스토어 등록 정보 설정 (앱 설정이 완료되면 취소선으로 설정완료 항목이 표시)**
+>  - **앱 콘텐츠에 관한 정보입력**
+>  - **앱이 분류 및 표시되는 방식관리**
+
+  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.png" alt="store_3.2" width="60%"/>
+
+#### 3.2.1 앱 액세스 권한
+> **게시할 앱이 엑세스가 제한되는 기능을 포함하는 경우 Google 심사에 사용하기 위한 정보를 입력. (ex. 로그인 사용자 인증 정보, 맴버십)**
+> - **엑세스정보가 누락된 경우 리젝사유**
+
+
+ <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.1-1.png" alt="store_3.2.1-1" width="70%"/>
+
+|메뉴명 | 설명  |
+|--|--|
+| 특수한 엑세스 권한 없이 모든 기능 이용가능:| 별도정보기입불필요|
+|전체 또는 일부 기능이 제한됨| 엑세스정보 입력 필요|
+
+#### 3.2.1.1 새안내추가
+> **이름, 사용자 이름/전화번호, 비밀번호, 다른 안내사항을 기입**
+<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.1.1.png" alt="store_3.2.1.1" width="70%"/>
+
+#### 3.2.2 광고
+> **앱에 광고가 포함되어 있는지  설정**
+
+|광고 대시보드 선택화면 | 앱스토어 광고 포함 문구 예시([자세히 보기](https://support.google.com/googleplay/android-developer/answer/9859455?visit_id=637871565108829086-2356309235&rd=1#ads))  |
+|--|--|
+| <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.2.png" alt="store_3.2.2" width="100%"/>| <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.2-1.png" alt="store_3.2.2-1" width="100%"/>|
+
+앱이 광고를 포함하는 경우 입력하며 기본적으로 Google 의 광고 정책을 따름.
+[광고 정책](https://play.google.com/about/monetization-ads/ads/)을 읽고 앱이 정책을 준수하는지 확인하시기 바랍니다.
+
+#### 3.2.3 콘텐츠 등급
+>  **콘텐츠 등급 설문지를 완료하여 앱의 공식 콘텐츠 등급을 받으세요. 이 등급은 Google Play에 표시되어 사용자가 앱이 자신에게 적합한지 판단하는 데 도움을 줍니다. ([자세히 보기](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637871565108829086-2356309235&rd=1))**
+
+<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.3.png" alt="store_3.2.3" width="70%"/>
+
+입력 완료 시 각 국가별 등급이 결정
+등급 부여기관은 Google Play 가 기본이나, 브라질, 북미등 일부 기관의 경우 전문 등급 부여 기관이 별도로 존재
+
+<img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.3-1.png" alt="store_3.2.3-1" width="70%"/>
+
