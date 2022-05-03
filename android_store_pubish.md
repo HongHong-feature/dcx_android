@@ -37,6 +37,27 @@
 ## 3. 앱 등록
 >**Google Play Store 에 앱을 등록하는 방법을 정리합니다.**
 ### 3.1 앱만들기
+  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.1.png" alt="store_3.1.1" width="100%"/>
+
 #### 3.1.1 앱 세부정보 입력
+  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.1-1.png" alt="store_3.1.1-1" width="70%"/>
+
+|메뉴명 | 설명  |
+|--|--|
+|앱이름 | GooglePlay에 표시될 앱명을 기입 <br/>(콘솔에서 수정가능)<br/>(성장 -> 앱정보 -> 기본 스토어 등록정보 -> 앱 세부정보)|
+|기본언어 |해당앱의기본언어 <br/>(콘솔에서 수정가능)<br/>(성장 -> 앱정보 -> 기본 스토어 등록정보 -> 번역관리)|
+|앱또는게임|앱,게임여부설정 <br/>(콘솔에서 수정가능)<br/>(성장 -> 앱정보 -> 스토어 설정 -> 앱 카테고리)|
+|유료또는무료|앱,게임여부설정 <br/>(콘솔에서 수정가능)<br/>(수익 창출 -> 제품 -> 앱 가격 -> 가격 설정)<br/>**주의사항 : 앱 생성시에는 변경가능하나, 앱을 게시한 이후 수정 불가 (무료앱을 유료앱으로 변경 불가)**|
+
+#### 3.1.2 선언
+  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.1.2.png" alt="store_3.1.2" width="70%"/>
+
+|메뉴명 | 설명  |
+|--|--|
+|개발자 프로그램 정책 | 앱이 개발자 프로그램 정책을 준수하는지 약관 동의 ([자세히 알아보기](https://play.google.com/about/developer-content-policy/))|
+|Play 앱 서명|Google에서는 Play 앱 서명으로 앱의 서명 키를 관리하고 보호하며, App Bundle에서 생성된 최적화된 배포 APK에 서명하는 데 이 키를 사용합니다.([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/9842756?hl=ko&visit_id=637871543737226245-2061671898&rd=1))|
+|미국 수출법| 미국 수출법 약관 동의 ([자세히 알아보기](https://support.google.com/googleplay/android-developer/answer/113770?hl=ko))|
+
+### 3.2 앱 설정
+  <img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_3.2.png" alt="store_3.2" width="70%"/>
   
- 
