@@ -4,6 +4,13 @@
 # Google Play Console (Android 앱 배포)
 > **Google Play Console 앱 배포(Deployment) 내용을 정리하여 공유** > 주소: https://play.google.com/console/
 
+## 목록 
+
+- [1.개발자 목록](#1.-개발자-등록)
+  * [2](#2)
+    + [3](#3)
+      - [4](#4)
+        * [5](#5)
 
 ## 1. 개발자 등록
 > **Google Play Console 을 통해 앱을 서비스 하는 경우 반드시 개발자 등록 필수 .**
