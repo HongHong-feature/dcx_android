@@ -1,8 +1,8 @@
 
 
 
-# Google Play Console (Android 앱 배포)
-> **Google Play Console 앱 배포(Deployment) 내용을 정리하여 공유**
+# Google Play Console (Android 앱 배포 및 테스트)
+> **Google Play Console 앱 배포(Deployment) 및 테스트 등록 내용을 정리하여 공유**
 > 주소: https://play.google.com/console/
 
 ## 목차
