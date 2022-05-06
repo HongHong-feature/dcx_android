@@ -5,12 +5,26 @@
 >  **Frirebase App Distribution 을 통해 앱을 테스트 하는 내용을 정리하여 공유**
 > 주소: https://console.firebase.google.com/
 
+
 ## 목차
 
+ 
+- 1 [App Distribution 메뉴 설명](#1-app-distribution-메뉴-설명)
+- 2 [테스터 등록](#2-테스터-등록)
+    * 2.1   [그룹 추가](#21-그룹-추가)  
+    * 2.1   [테스터 등록](#22-테스터-등록)  
+      + 2.2.1 [직접 입력하여 하나씩 등록](#221-직접-입력하여-하나씩-등록)
+      + 2.2.2 [CSV파일형태로 입력된 메일들을 등록](#222-CSV파일형태로-입력된-메일들을-등록)
+- 3 [앱 파일 등록](#3-앱-파일-등록)
+- 4 [초대링크 보내기](#4-초대링크-보내기)
+- 5 [테스트 진행하기](#5-테스트-진행하기)
+    * 5.1   [초대된 메일이나 링크 확인 및 처리](#51-초대된-메일이나-링크-확인-및-처리)
+    * 5.2   [내부 공유 설정](#52-내부-공유-설정) 
+    
 ## 1. App Distribution 메뉴 설명
 > **App Distribution의 주요 메뉴에 대해 소개 합니다.**
 
-<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_1.png" alt="firebase_1" width="35%"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_1.png" alt="firebase_1" width="100%"/></kbd>
 
 
 |메뉴명 | 설명  |          
@@ -19,7 +33,7 @@
 |초대링크 |  테스트 그룹에 대한 초대링크를 생성 및 관리를 하는 페이지 입니다.|
 |테스터 및 그룹| 테스터를 등록하고 테스터를 그룹별로 생성 및 관리하는 페이지 입니다.|
 
-## 2 테스터 등록
+## 2. 테스터 등록
 > **테스터를 등록하고 테스트 그룹을 만드는 방법을 가이드 합니다.**
 
 ### 2.1 그룹 추가
@@ -42,7 +56,7 @@
 
 입력후 **Enter**를 누르면 해당 그룹에 테스터 추가가 완료됩니다.
 
-#### 2.2.2 CSV파일형태로 입력된 메일들을 등록
+#### 2.2.2 CSV파일형태로 입력된 메일들을 등록
 
 <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_1.1.2-1.png" alt="firebase_1.1.2-1" width="100%"/></kbd>
 
@@ -59,7 +73,7 @@ CSV 파일은 **이메일만 입력하여 생성**합니다.
 **CSV 파일을 드래그** 하여 업로드하여 **가져오기**를 클릭하면 테스트 등록 완료 됩니다.
 
 
-## 2. 앱 파일 등록
+## 3. 앱 파일 등록
 > 테스트를 진행할 앱파일을 올립니다.
 
 <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_2.png" alt="firebase_2" width="100%"/></kbd>
@@ -114,7 +128,7 @@ CSV 파일은 **이메일만 입력하여 생성**합니다.
 > 테스터가 초대링크로 테스트 참여하는 방법을 소개 합니다.
 
 
-### 5.2 초대된 메일이나 링크 확인 및 처리
+### 5.1 초대된 메일이나 링크 확인 및 처리
 > 링크를 확인하여 절차대로 진행 해야 됩니다.
 
 <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-3.jpeg" alt="firebase_3-3" width="100%"/></kbd>
