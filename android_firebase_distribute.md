@@ -1,5 +1,6 @@
 
 
+
 # Firebase Console (Android 앱 테스트 등록)
 >  **Frirebase App Distribution 을 통해 앱을 테스트 하는 내용을 정리하여 공유**
 > 주소: https://console.firebase.google.com/
@@ -101,6 +102,58 @@ CSV 파일은 **이메일만 입력하여 생성**합니다.
 - **메뉴 내용은** 특정 그룹 이나 특정 회사이메일주소로 **제한을 할때만** 사용됩니다.
 - 선택사항을 입력하지 않으면 등록된 테스터들 모두 현재 버전 다운로드 할 수 있습니다.
 - [자세히 알아보기](https://firebase.google.com/docs/app-distribution/manage-testers?platform=android&authuser=0&hl=ko#create-links)
+
+**링크 만들기**를 클릭하면 초대 링크 생성이 완료됩니다.
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-2.png" alt="firebase_3-2" width="100%"/></kbd>
+
+생성된 초대링크를 **복사하여 테스터에게 전달**하면 됩니다. ( 그외에 초대링크를 전달하지 않아도 앱등록시에 테스터로 등록하면 등록한 이메일로 **테스트 알림 메일이 전달**됩니다.)
+
+
+## 5. 테스트 진행하기
+> 테스터가 초대링크로 테스트 참여하는 방법을 소개 합니다.
+
+
+### 5.2 초대된 메일이나 링크 확인 및 처리
+> 링크를 확인하여 절차대로 진행 해야 됩니다.
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-3.jpeg" alt="firebase_3-3" width="100%"/></kbd>
+
+초대하려는 폰에서 해당 링크나 메일을 확인합니다.
+
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-4.jpeg" alt="firebase_3-4" width="40%"/></kbd>
+
+Firebase 약관을 동의하고 **초대 수락**을 합니다.
+
+|1|2|3|
+|-|-|-|
+|<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-5.jpg" alt="firebase_3-5" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-6.jpeg" alt="firebase_3-6" width="100%"/></kbd> |<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-7.jpeg" alt="firebase_3-7" width="100%"/></kbd> |
+
+이어서    내부 앱 공유설정을 완료 해야 됩니다.
+
+
+### 5.2 내부 공유 설정
+>  내부앱 공유 설정해야  테스트를 할 수 있습니다.
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_4.6.1.jpeg" alt="store_4.6.1" width="100%"/></kbd>
+
+- PlayStore에서 기존 버전 어플을 다운받은 후, 플레이스토어 설정에 들어가 **PlayStore 버전을 7번 탭**하면 아래의 오른쪽과 같이 내부 앱 공유 버튼이 생성되고, **내부 앱 공유를 활성화** 합니다.
+
+설정을 완료하고 다시 **초대 수락 페이지로 이동**하여 다시 **다운로드 버튼**을 클릭하여  작업 완료합니다.
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-5.jpg" alt="firebase_3-5" width="40%"/></kbd>
+
+- 다운로드 버튼을 눌러 플레이 스토어로 이동하여 해당 버전을 설치합니다.
+-  Firebase App Tester 앱을 다운로드해 테스트참여를 진행해도 됩니다.(밥법은 동일합니다.)
+
+
+<kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw2/firebase_3-8.jpeg" alt="firebase_3-8" width="40%"/></kbd>
+
+설정이 정확하면 이미지와 같이  버전명이 크게 적혀있는 페이지에서 테스트앱을 설치 할 수 있습니다.
+
+
+
 
 
  
