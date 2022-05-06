@@ -401,7 +401,7 @@
 
 <kbd><img src="https://raw.githubusercontent.com/HongHong-feature/dcx_android/master/raw/store_4.6.1.jpeg" alt="store_4.6.1" width="100%"/></kbd>
 
-- PlayStore에서 기존 버전 어플을 다운받은 후, 플레이스토어 설정에 들어가 **PlayStore 버전을 7번 탭**하면 아래의 오른쪽과 같이 내부 앱 공유 버튼이 생성되고, **내부 앱 공유를 활성화**  합니다.
+- PlayStore 설정에 들어가 **PlayStore 버전을 7번 탭**하면 아래의 오른쪽과 같이 내부 앱 공유 버튼이 생성되고, **내부 앱 공유를 활성화**  합니다.
 
 #### 4.6.2 초대 수락 혹은 취소
 
